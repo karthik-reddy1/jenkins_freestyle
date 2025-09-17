@@ -23,7 +23,7 @@ public class LinkedListDemo {
 
         // Remove first element
         list.removeFirst();
-        System.out.println("After removeFirst(): " + list);
+        System.out.println("After removeFirst Node(): " + list);
 
         // Remove last element
         list.removeLast();
@@ -49,3 +49,4 @@ public class LinkedListDemo {
         System.out.println();
     }
 }
+
